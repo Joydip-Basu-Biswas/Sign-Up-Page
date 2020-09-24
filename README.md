@@ -1,6 +1,6 @@
 # Sign-Up-Page
 
-<h2> :defines the most important heading.
+#<h2> :defines the most important heading.
 <p> :element defines a paragraph.
 <br> : elements defines a break
 <div> : elements divide the page
